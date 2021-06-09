@@ -1,0 +1,206 @@
+.block{
+	height: 100vh;
+	background-image: url(image/beach.jpeg);
+	background-position: center;
+	background-size: cover;
+}
+.filter{
+	height: 100vh;
+	background-color: #00000088;
+}
+.BoUncy{
+	height: 5vh;
+	width: 125px;
+	color: white;
+	font-size: 25px;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.ponel{
+	width: 120px;
+	height: 2vh;
+	float: right;
+	color: white;
+	font-size: 20px;
+	margin-left: 10px;
+	padding-left: 30px;
+}
+.ponel:hover{
+	border: 2px solid white;
+}
+.code{
+	width: 800px;
+	height: 10vh;
+	margin: auto;
+	color: white;
+	font-size: 40px;
+	margin-top: 300px;
+}
+.code1{
+	width: 900px;
+	height: 8vh;
+	margin: auto;
+	color: white;
+	font-size: 20px;
+
+}
+.bor{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: green;
+	margin: auto;
+	margin-top: 400px;
+}
+.block1{
+	height: 90vh;
+}
+.tis{
+	width: 700px;
+	height: 5vh;
+	color: grey;
+	font-size: 50px;
+	margin-left: 100px;
+}
+.tekst1{
+	width: 900px;
+	height: 10vh;
+	color: grey;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.read{
+	width: 300px;
+	height: 50px;
+	color: grey;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.planshet{
+	width: 300px;
+	height: 8vh;
+	float: right;
+	margin-bottom: 10vh;
+}
+.block2{
+	height: 100vh;
+}
+.detail{
+	width: 1000px;
+	height: 10vh;
+	color: grey;
+	font-size: 70px;
+	margin: auto;
+}
+.tekst2{
+	width: 800px;
+	height: 5vh;
+	color: grey;
+	font-size: 20px;
+	margin: auto;
+	margin-top: 100px;
+}
+.block12{
+	background-color: green;
+	width: 50px;
+	height: 50px;
+	margin-left: 1050px;
+	border-radius: 50%;
+	margin-top: 50px;
+	float: left;
+}
+.block13{
+	background-color: grey;
+	width: 50px;
+	height: 50px;
+	margin-left: 50px;
+	border-radius: 50%;
+	margin-top: 50px;
+	float: left;
+}
+.block14{
+	background-color: grey;
+	width: 50px;
+	height: 50px;
+	margin-left: 50px;
+	border-radius: 50%;
+	margin-top: 50px;
+	float: left;
+}
+.tekst4{
+	height: 10vh;
+	width: 1000px;
+	margin-left: 200px;
+	margin-top: 200px;
+	color: grey;
+	font-size: 20px;	
+}
+.tekst5{
+	width: 600px;
+	height: 7vh;
+	margin-left: 1500px;
+	color: grey;
+	font-size: 20px;
+}
+.f{
+	height: 100vh;
+}
+.ff1{
+	width: 1100px;
+	height: 5vh;
+	color: grey;
+	font-size: 60px;
+	margin: auto;
+	margin-left: 1000px;
+}
+.tekst00{
+	width: 1200px;
+	height: 3vh;
+	color: grey;
+	font-size: 25px;
+	margin: auto;
+	margin-top: 100px;
+}
+.pange{
+	height: 70vh;
+	width: 1100px;
+	background-position: center;
+	background-image: url(image/books.jpeg);
+	background-size: cover;
+	float: left;
+	margin-top: 200px;
+}
+.pange2{
+	height: 70vh;
+	width: 800px;
+	background-image: url(image/books2.jpeg);
+	background-size: cover;
+	background-position: center;
+	float: left;
+	margin-top: 200px;
+}
+.filter1{
+	height: 70vh;
+	width: 800px;
+	background-color: #00000099;
+	border-left: 2px solid white;
+}
+.pange3{
+	height: 70vh;
+	width: 625px;
+	background-image: url(image/books3.jpeg);
+	background-size: cover;
+	background-position: center;
+	float: right;
+	margin-top: 200px;
+}
+
+
+
+
+
+
+
+
